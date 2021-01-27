@@ -3,6 +3,8 @@
 ![github pages](https://github.com/scp-079/manuals/workflows/github%20pages/badge.svg) [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This is the source code for building [manuals.scp-079.org](https://manuals.scp-079.org).
+## Credit
+This is a fork (forked on 1/26/2021 PST) of the repo from scp-079 (https://github.com/scp-079) project.
 
 ## License
 
